@@ -41,7 +41,7 @@ These files provide key details about:
 - **Interactive Visuals**: Users can explore different metrics, timeframes, and comparisons between Netflix and Prime.
 
 ## License
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 [Lakshay Kumar]
 
 All rights reserved.
 
@@ -53,7 +53,5 @@ Restrictions:
 1. The Work may not be used, copied, modified, merged, published, distributed, sublicensed, or sold for commercial purposes without explicit written permission from the copyright holder.
 2. Redistribution of the Work or derivatives is not permitted without explicit attribution and prior consent.
 3. This license does not grant permission to use the Work for training machine learning models or any other automated systems without prior approval.
-
-For any permissions or inquiries, please contact: [your_email@example.com]
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
